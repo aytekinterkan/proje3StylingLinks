@@ -1,0 +1,32 @@
+a.link1:link {
+    color: red;
+}
+a.link1:hover {
+    color: rgb(255, 196, 0)
+}
+a.link2:link {
+    color:red;
+}
+a.link2:hover {
+    font-size: 24px;;
+}
+a.link3:link {
+    color:red;
+}
+a.link3:hover {
+    background-color: green;
+}
+a.link4:link {
+    color:red;
+}
+a.link4:hover {
+    font-family: monospace;
+}
+a.link5:link {
+    color:red;
+    text-decoration: none;
+}
+a.link5:hover {
+    text-decoration:underline ;
+}
+
